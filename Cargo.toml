@@ -1,6 +1,6 @@
 [package]
 name = "tuwi"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Ratatui extended terminal widgets!"
 repository = "https://github.com/tascord/tuwi"
